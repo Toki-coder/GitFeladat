@@ -1,0 +1,2 @@
+# GitFeladat
+elso moka
